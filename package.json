@@ -2,7 +2,7 @@
   "name": "angular2-color-picker",
   "version": "2.0.0",
   "scripts": {
-    "start": "rm -rf lib && npm run gulp",
+    "start": "rm -rf lib && npm i && npm run gulp",
     "postinstall": "typings install && npm start",
     "gulp": "gulp",
     "typings": "typings"

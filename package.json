@@ -28,9 +28,5 @@
     "node-sass": "^3.8.0",
     "typescript": "^1.8.10",
     "typings": "^1.0.4"
-  },
-  "files": [
-    "lib/*",
-    "index.*"
-  ]
+  }
 }
